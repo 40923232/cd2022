@@ -5,28 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:31-00:00</lastmod>
+=======
+<lastmod>2022-04-28T15:51:00-00:00</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:31-00:00</lastmod>
+=======
+<lastmod>2022-04-28T15:51:00-00:00</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:31-00:00</lastmod>
+=======
+<lastmod>2022-04-28T15:51:00-00:00</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:31-00:00</lastmod>
+=======
+<lastmod>2022-04-28T15:51:00-00:00</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,28 +63,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./w7_summary.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:24+08:00</lastmod>
+=======
+<lastmod>2022-04-28T15:50:52+08:00</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/misc.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:24+08:06</lastmod>
+=======
+<lastmod>2022-04-28T15:50:52+08:06</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/cd2022.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:24+08:06</lastmod>
+=======
+<lastmod>2022-04-28T15:50:52+08:06</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923232.html</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-28T15:27:24+08:06</lastmod>
+=======
+<lastmod>2022-04-28T15:50:52+08:06</lastmod>
+>>>>>>> 2d6d39f3eebbc3b6348e8bfb497a1fa603955bd4
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
